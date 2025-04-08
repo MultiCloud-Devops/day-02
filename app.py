@@ -15,10 +15,10 @@ def lambda_handler(event, context):
             'Tags': [
                 {
                     'Key': 'Name',
-                    'Value': 'server_from_lambda_boto3'
+                    'Value': 'server_from_lambda_boto3_git'
                 },
             ]
         },
     ]
 )
-
+i
